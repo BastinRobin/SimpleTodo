@@ -40,10 +40,10 @@ while True:
 		exit()
 
 
-#Check for condition
+#Check for condition (Pending)
 
 
-#Perform operation
+#Perform operation (Pending)
 
 
-#Display the result
+#Display the result (Pending)
